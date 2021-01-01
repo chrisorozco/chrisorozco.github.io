@@ -1,8 +1,3 @@
-# my shit ass website
-greetings, pretty sure hope you turn away now
-literally it's just my shitty personal site on github
-### *that's all*
+rendered map of my mc server with da homies
 
-byeeeee....
-
-chris orozco, 2020
+will be updated frequently as i work out how to use overviewer
