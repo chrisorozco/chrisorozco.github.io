@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1609721390",
+        "cacheTag": "1610496946",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,21 +50,21 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "homies server",
-            "last_rendertime": 1609720435,
+            "last_rendertime": 1610410125,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                166,
-                80,
-                -96
+                195,
+                96,
+                -93
             ],
             "minZoom": 0,
             "spawn": [
-                166,
-                80,
-                -96
+                195,
+                96,
+                -93
             ],
             "north_direction": 0
         },
